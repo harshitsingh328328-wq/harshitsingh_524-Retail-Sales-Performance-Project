@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price,Sales,Profit
+1001,2024-01-05,North,Delhi,Electronics,Laptop,2,55000,110000,15000
+1002,2024-01-07,North,Noida,Electronics,Smartphone,5,20000,100000,18000
+1003,2024-01-10,West,Mumbai,Furniture,Office Chair,8,5000,40000,7000
+1004,2024-01-12,South,Bangalore,Electronics,Tablet,6,15000,90000,12000
+1005,2024-01-15,East,Kolkata,Clothing,T-Shirt,20,800,16000,4000
+1006,2024-01-18,North,Ghaziabad,Electronics,Headphones,15,2500,37500,8000
+1007,2024-01-20,West,Pune,Furniture,Desk,4,12000,48000,9000
+1008,2024-01-22,South,Chennai,Clothing,Jacket,10,2500,25000,6000
+1009,2024-01-25,East,Patna,Electronics,Smartwatch,12,6000,72000,11000
+1010,2024-01-28,North,Delhi,Furniture,Bookshelf,5,7000,35000,6000
+1011,2024-02-02,West,Mumbai,Electronics,Laptop,3,55000,165000,22000
+1012,2024-02-05,South,Bangalore,Electronics,Smartphone,8,20000,160000,28000
+1013,2024-02-08,East,Kolkata,Clothing,Jeans,15,1800,27000,5000
+1014,2024-02-11,North,Noida,Furniture,Table,4,9000,36000,6500
+1015,2024-02-14,South,Chennai,Electronics,Headphones,20,2500,50000,10000
+1016,2024-02-17,West,Pune,Electronics,Smartwatch,10,6000,60000,9000
+1017,2024-02-20,East,Patna,Clothing,Jacket,12,2500,30000,6500
+1018,2024-02-22,North,Ghaziabad,Furniture,Office Chair,7,5000,35000,5500
+1019,2024-02-25,South,Bangalore,Electronics,Tablet,5,15000,75000,11000
+1020,2024-02-28,West,Mumbai,Clothing,T-Shirt,30,800,24000,4500
+1021,2024-03-03,North,Delhi,Electronics,Laptop,4,55000,220000,32000
+1022,2024-03-06,South,Chennai,Electronics,Smartphone,10,20000,200000,35000
+1023,2024-03-09,East,Kolkata,Furniture,Desk,5,12000,60000,9500
+1024,2024-03-12,West,Pune,Electronics,Headphones,25,2500,62500,12000
+1025,2024-03-15,North,Noida,Clothing,Jeans,18,1800,32400,7000
+1026,2024-03-18,East,Patna,Electronics,Smartwatch,14,6000,84000,12500
+1027,2024-03-21,South,Bangalore,Furniture,Bookshelf,6,7000,42000,6500
+1028,2024-03-24,West,Mumbai,Clothing,Jacket,15,2500,37500,7500
+1029,2024-03-27,North,Ghaziabad,Electronics,Tablet,7,15000,105000,15000
+1030,2024-03-30,South,Chennai,Furniture,Table,5,9000,45000,7000
